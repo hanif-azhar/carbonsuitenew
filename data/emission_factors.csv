@@ -1,0 +1,48 @@
+activity,unit,emission_factor,scope,scope_category,region,year,source,version,active
+fuel combustion,l,2.68,scope1,stationary_combustion,global,2025,IPCC_2006_default,v2,1
+diesel use,l,2.68,scope1,mobile_combustion,global,2025,IPCC_2006_default,v2,1
+gasoline use,l,2.31,scope1,mobile_combustion,global,2025,IPCC_2006_default,v2,1
+natural gas,mj,0.056,scope1,stationary_combustion,global,2025,IPCC_2006_default,v2,1
+diesel stationary combustion,l,2.68,scope1,stationary_combustion,global,2025,IPCC_2006_default,v2,1
+gasoline stationary combustion,l,2.31,scope1,stationary_combustion,global,2025,IPCC_2006_default,v2,1
+fuel oil stationary combustion,l,3.11,scope1,stationary_combustion,global,2025,IPCC_2006_default,v2,1
+kerosene stationary combustion,l,2.52,scope1,stationary_combustion,global,2025,IPCC_2006_default,v2,1
+lpg stationary combustion,kg,3.00,scope1,stationary_combustion,global,2025,IPCC_2006_default,v2,1
+coal stationary combustion,kg,2.42,scope1,stationary_combustion,global,2025,IPCC_2006_default,v2,1
+jet fuel combustion,l,2.50,scope1,mobile_combustion,global,2025,IPCC_2006_default,v2,1
+marine gas oil combustion,l,3.21,scope1,mobile_combustion,global,2025,IPCC_2006_default,v2,1
+cng vehicle fuel,kg,2.75,scope1,mobile_combustion,global,2025,IPCC_2006_default,v2,1
+cement clinker process,kg,0.52,scope1,process_emissions,global,2025,IPCC_2006_default,v2,1
+lime production process,kg,0.75,scope1,process_emissions,global,2025,IPCC_2006_default,v2,1
+ammonia production process,kg,1.60,scope1,process_emissions,global,2025,IPCC_2006_default,v2,1
+refrigerant leakage r134a,kg,1430.00,scope1,fugitive_emissions,global,2025,IPCC_2006_default,v2,1
+refrigerant leakage r410a,kg,2088.00,scope1,fugitive_emissions,global,2025,IPCC_2006_default,v2,1
+sf6 leakage,kg,25200.00,scope1,fugitive_emissions,global,2025,IPCC_2006_default,v2,1
+natural gas fugitive methane,kg,28.00,scope1,fugitive_emissions,global,2025,IPCC_2006_default,v2,1
+electricity consumption,kwh,0.40,scope2,purchased_electricity,global,2025,IPCC_2006_default,v2,1
+purchased electricity grid average,kwh,0.40,scope2,purchased_electricity,global,2025,IPCC_2006_default,v2,1
+purchased steam,mj,0.066,scope2,purchased_steam,global,2025,IPCC_2006_default,v2,1
+purchased heating,mj,0.074,scope2,purchased_heating,global,2025,IPCC_2006_default,v2,1
+purchased cooling,kwh,0.20,scope2,purchased_cooling,global,2025,IPCC_2006_default,v2,1
+transportation,km,0.12,scope3,cat4_upstream_transport,global,2025,IPCC_2006_default,v2,1
+waste,kg,0.45,scope3,cat5_waste_generated,global,2025,IPCC_2006_default,v2,1
+purchased goods steel,kg,1.90,scope3,cat1_purchased_goods_services,global,2025,IPCC_2006_default,v2,1
+purchased goods aluminum,kg,11.50,scope3,cat1_purchased_goods_services,global,2025,IPCC_2006_default,v2,1
+purchased goods paper,kg,1.30,scope3,cat1_purchased_goods_services,global,2025,IPCC_2006_default,v2,1
+capital goods machinery,kg,2.60,scope3,cat2_capital_goods,global,2025,IPCC_2006_default,v2,1
+upstream fuel well-to-tank diesel,l,0.62,scope3,cat3_fuel_energy_related,global,2025,IPCC_2006_default,v2,1
+upstream fuel well-to-tank gasoline,l,0.53,scope3,cat3_fuel_energy_related,global,2025,IPCC_2006_default,v2,1
+upstream transportation truck,km,0.12,scope3,cat4_upstream_transport,global,2025,IPCC_2006_default,v2,1
+upstream transportation air freight,km,0.60,scope3,cat4_upstream_transport,global,2025,IPCC_2006_default,v2,1
+waste landfill mixed,kg,0.45,scope3,cat5_waste_generated,global,2025,IPCC_2006_default,v2,1
+waste recycling mixed,kg,0.02,scope3,cat5_waste_generated,global,2025,IPCC_2006_default,v2,1
+business travel air,km,0.146,scope3,cat6_business_travel,global,2025,IPCC_2006_default,v2,1
+business travel rail,km,0.041,scope3,cat6_business_travel,global,2025,IPCC_2006_default,v2,1
+employee commuting car,km,0.171,scope3,cat7_employee_commuting,global,2025,IPCC_2006_default,v2,1
+employee commuting bus,km,0.089,scope3,cat7_employee_commuting,global,2025,IPCC_2006_default,v2,1
+upstream leased assets electricity,kwh,0.40,scope3,cat8_upstream_leased_assets,global,2025,IPCC_2006_default,v2,1
+downstream transportation delivery,km,0.11,scope3,cat9_downstream_transport,global,2025,IPCC_2006_default,v2,1
+use of sold products electricity,kwh,0.40,scope3,cat11_use_sold_products,global,2025,IPCC_2006_default,v2,1
+end of life treatment products,kg,0.38,scope3,cat12_end_of_life,global,2025,IPCC_2006_default,v2,1
+franchises electricity,kwh,0.40,scope3,cat14_franchises,global,2025,IPCC_2006_default,v2,1
+investments financed emissions,usd,0.00025,scope3,cat15_investments,global,2025,IPCC_2006_default,v2,1
